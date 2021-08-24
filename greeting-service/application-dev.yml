@@ -10,6 +10,6 @@ management:
     
 greeting-service:
   greeting: 'Hello'
-  default-value: 'World-dev'    
+  default-value: 'World-dev-OK'    
   
  
